@@ -1,6 +1,4 @@
 # GoNet - Easy HTTP Libary for Go
-- GET
-- POST
 - Only Syntax is Changed! Still in contact with the original net/http (Made for beginners)
 
 ## How to use
